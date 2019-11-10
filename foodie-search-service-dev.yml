@@ -9,7 +9,7 @@ mysql:
   
 search:
   item:
-    disabled: true
+    disabled: false
     
 management:
   security:
