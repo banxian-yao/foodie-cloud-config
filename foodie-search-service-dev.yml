@@ -5,3 +5,8 @@ info:
 mysql:
   datasource: 'jdbc:mysql://localhost:3306/foodie-shop-dev?useUnicode=true&characterEncoding=UTF-8&autoReconnect=true'
   password: '{cipher}397e34e3efa30585c91c24aa26ef3ac109c54626cc0ba2171e44565fe31f5c23'
+  
+  
+search:
+  item:
+    disabled: false
